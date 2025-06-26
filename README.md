@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tirth Chauhan</h1>
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-image-here" alt="Tirth Chauhan" width="150" height="150" style="border-radius: 50%;">
-</p>
 
 <h3 align="center">🚀 A passionate Frontend Developer | Backend Explorer | Creative Coder from Gujarat, India</h3>
 
